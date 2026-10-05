@@ -1,0 +1,39 @@
+{
+ "bootstrap": {
+  "h_mean": 7.330163012871168,
+  "h_sd": 0.8404490801916467,
+  "h_exact": 7.086537151848769,
+  "far": 5.0,
+  "det": 95.0,
+  "median_delay": 190.0
+ },
+ "multi_demo": {
+  "run": 3,
+  "alarms": [
+   3350,
+   7450,
+   11100
+  ],
+  "ests": [
+   3000,
+   7050,
+   11050
+  ]
+ },
+ "multi_clean_share": 63.0,
+ "multi": {
+  "3010": {
+   "rate": 95.5,
+   "median_delay": 190.0
+  },
+  "7010": {
+   "rate": 84.5,
+   "median_delay": 240.0
+  },
+  "11010": {
+   "rate": 90.5,
+   "median_delay": 140.0
+  }
+ },
+ "multi_false_per_run": 0.405
+}
